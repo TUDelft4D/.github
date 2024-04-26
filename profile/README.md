@@ -1,6 +1,6 @@
 ## TU Delft Optical and Laser Remote Sensing GitHub 
 Hi there, and welcome to the GitHub repositories of the OLRS department of Delft University of Technology.
-Here code is and will be shared reegarding the publications of the department.
+Here code is and will be shared regarding the publications of the department.
 
 Please open an issue or write us if you find any bugs, or have some interesting ideas.
 
